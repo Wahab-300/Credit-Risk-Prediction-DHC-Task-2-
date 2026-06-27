@@ -33,5 +33,10 @@ Predict whether a loan applicant is likely to default on a loan using Machine Le
 ### Libraries Used
 `pandas` `matplotlib` `seaborn` `scikit-learn`
 
+GitHub - https://github.com/Wahab-300/ 
+LinkedIn - https://www.linkedin.com/in/abdul-wahab-3993502a6/ 
+Streamlit Visualization - https://hgqf4vgi7coek79bpcy9gt.streamlit.app/
+
+
 ---
 *DevelopersHub Corporation — Data Science & Analytics Internship*
